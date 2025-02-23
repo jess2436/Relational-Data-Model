@@ -1,8 +1,5 @@
 /*
 File: database.c
-Authors: Jessica Chen & Shadiya Akhter
-CSC 713 | George Ferguson | Project 4
-Last Modified: 11/15/24
 */
 
 #include <stdio.h>
